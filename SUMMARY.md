@@ -7,7 +7,7 @@
   * [Проверка ДЗС](proverka-dokumentov/proverka-dzs.md)
   * [Подтверждение получения документов](proverka-dokumentov/podtverzhdenie-polucheniya-dokumentov.md)
   * [Добавление подписанного договора](proverka-dokumentov/dobavlenie-podpisannogo-dogovora.md)
-  * [Исчерпание квоты на обучение](proverka-dokumentov/ischerpanie-kvoty-na-obuchenie.md)
+  * [Исчерпана квота на обучение](proverka-dokumentov/ischerpana-kvota-na-obuchenie.md)
   * [Замена документов](proverka-dokumentov/zamena-dokumentov.md)
 * [Приказы](prikazy/README.md)
   * [Ручное добавление приказов](prikazy/ruchnoe-dobavlenie-prikazov.md)
