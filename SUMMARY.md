@@ -19,6 +19,7 @@
   * [Заявки на поток](potoki-obucheniya/zayavki-na-potok.md)
   * [Задание на поток](potoki-obucheniya/zadanie-na-potok.md)
   * [Акты](potoki-obucheniya/akty.md)
+  * [Отчёты](potoki-obucheniya/otchyoty.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
