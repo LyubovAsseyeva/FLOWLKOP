@@ -37,6 +37,7 @@
 * [Как изменить даты в созданном потоке?](otvechaem-na-chasto-zadavaemye-voprosy/kak-izmenit-daty-v-sozdannom-potoke.md)
 * [Почему мы не видим программу на РвР?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-my-ne-vidim-programmu-na-rvr.md)
 * [Как проверить запись на поток?](otvechaem-na-chasto-zadavaemye-voprosy/kak-proverit-zapis-na-potok.md)
+* [Смена фамилии во время обучения](otvechaem-na-chasto-zadavaemye-voprosy/smena-familii-vo-vremya-obucheniya.md)
 
 ## Дополнительная информация
 
