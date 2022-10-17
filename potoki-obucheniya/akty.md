@@ -42,7 +42,7 @@
 
 3\. В правом верхнем углу блока «Акты на поток» кликнуть на кнопку «Сгенерировать».
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 4\. Проверить сгенерированный акт. После генерации Акта необходимо открыть бланк, проверить. В случае возникновения вопрос/проблем, необходимо сообщить [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form) .
 
