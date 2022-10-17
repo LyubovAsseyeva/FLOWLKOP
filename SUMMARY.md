@@ -42,3 +42,7 @@
 ## Дополнительная информация
 
 * [🔐 Зашифрованный архив](dopolnitelnaya-informaciya/zashifrovannyi-arkhiv.md)
+
+***
+
+* [👩💻 Помощь](https://tgu-dpo.ru/form)
