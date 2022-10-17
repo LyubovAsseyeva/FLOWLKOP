@@ -38,6 +38,7 @@
 * [Почему мы не видим программу на РвР?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-my-ne-vidim-programmu-na-rvr.md)
 * [Как проверить запись на поток?](otvechaem-na-chasto-zadavaemye-voprosy/kak-proverit-zapis-na-potok.md)
 * [Смена фамилии во время обучения](otvechaem-na-chasto-zadavaemye-voprosy/smena-familii-vo-vremya-obucheniya.md)
+* [Последний срок подачи заявления на отчисление](otvechaem-na-chasto-zadavaemye-voprosy/poslednii-srok-podachi-zayavleniya-na-otchislenie.md)
 
 ## Дополнительная информация
 
