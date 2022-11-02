@@ -42,7 +42,7 @@
 
 3\. В правом верхнем углу блока «Акты на поток» кликнуть на кнопку «Сгенерировать».
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Проверить сгенерированный акт. После генерации Акта необходимо открыть бланк, проверить. В случае возникновения вопрос/проблем, необходимо сообщить [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form) .
 
@@ -77,7 +77,7 @@
 
 2\. Установите значение в полях: "Партнёр по сетевому договору" и  "Сетевой договор".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Выберите слушателей, для которых необходимо сгенерировать Акт, если это все слушатели  потока нажмите - "Выбрать всех".&#x20;
 
@@ -92,7 +92,7 @@
 * скан приказа об отчислении.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 5\. Сгенерируйте акт, нажав на кнопку "Сгенерировать".&#x20;
 
