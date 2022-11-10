@@ -92,11 +92,11 @@
 * скан приказа об отчислении.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. Сгенерируйте акт, нажав на кнопку "Сгенерировать".&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 6\. После генерации Акта необходимо открыть бланк, проверить. Если все данные корректны, кликнуть кнопку "Подтвердить".  В случае возникновения вопрос/проблем, сообщить [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form)
