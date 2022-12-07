@@ -14,7 +14,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-Для загрузки поддерживаются только файлы с расширением .pdf.
+Оформлен журнал может быть в свободной форме. Для загрузки поддерживаются только файлы с расширением .pdf.
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
