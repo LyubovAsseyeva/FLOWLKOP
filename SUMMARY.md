@@ -15,11 +15,11 @@
 * [Справки об успеваемости/посещаемости](spravki-ob-uspevaemosti-poseshaemosti/README.md)
   * [Как подписать справки электронной подписью](spravki-ob-uspevaemosti-poseshaemosti/kak-podpisat-spravki-elektronnoi-podpisyu.md)
 * [Выпуск документов о квалификации](vypusk-dokumentov-o-kvalifikacii.md)
-* [Журнал регистрации](zhurnal-registracii.md)
 * [Как загружать документ о трудоустройстве](kak-zagruzhat-dokument-o-trudoustroistve.md)
 * [Потоки  обучения](potoki-obucheniya/README.md)
   * [Заявки на поток](potoki-obucheniya/zayavki-na-potok.md)
   * [Задание на поток](potoki-obucheniya/zadanie-na-potok.md)
+  * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
 
