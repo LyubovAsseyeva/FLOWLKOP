@@ -24,6 +24,7 @@
   * [Отчёты](potoki-obucheniya/otchyoty.md)
 * [Аналитический модуль Федерального оператора](analiticheskii-modul-federalnogo-operatora/README.md)
   * [Аналитический модуль. Образовательные программы](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-obrazovatelnye-programmy.md)
+  * [Аналитический модуль. Договоры на организацию обучения](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-dogovory-na-organizaciyu-obucheniya.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 

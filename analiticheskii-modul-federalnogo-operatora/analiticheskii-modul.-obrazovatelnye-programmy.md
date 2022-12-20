@@ -15,7 +15,7 @@ description: Мониторинг программ, размещенных на 
 * по образовательному партнеру,&#x20;
 * по программе.&#x20;
 
-Возможно выгрузка таблицы в формате Excel.
+Возможна выгрузка таблицы в формате Excel.
 
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
