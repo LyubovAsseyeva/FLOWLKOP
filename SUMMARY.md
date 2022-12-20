@@ -22,7 +22,7 @@
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
-* [Аналитический модуль федерального оператора](analiticheskii-modul-federalnogo-operatora/README.md)
+* [Аналитический модуль Федерального оператора](analiticheskii-modul-federalnogo-operatora/README.md)
   * [Аналитический модуль. Образовательные программы](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-obrazovatelnye-programmy.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
