@@ -19,3 +19,7 @@ description: Подробнее об аналитике
 {% content-ref url="analiticheskii-modul.-zavershenie-obucheniya-i-trudoustroistvo.md" %}
 [analiticheskii-modul.-zavershenie-obucheniya-i-trudoustroistvo.md](analiticheskii-modul.-zavershenie-obucheniya-i-trudoustroistvo.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+Образовательный парнёр -  организация, которая проводит обучение граждан в рамках проекта по Содействию занятости.
+{% endhint %}
