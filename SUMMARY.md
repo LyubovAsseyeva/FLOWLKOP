@@ -25,6 +25,7 @@
 * [Аналитический модуль Федерального оператора](analiticheskii-modul-federalnogo-operatora/README.md)
   * [Аналитический модуль. Образовательные программы](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-obrazovatelnye-programmy.md)
   * [Аналитический модуль. Договоры на организацию обучения](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-dogovory-na-organizaciyu-obucheniya.md)
+  * [Аналитический модуль. Прогнозная оценка](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-prognoznaya-ocenka.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
