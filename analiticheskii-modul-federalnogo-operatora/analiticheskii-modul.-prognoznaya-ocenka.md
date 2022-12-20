@@ -12,7 +12,7 @@ description: Мониторинг прогнозной оценки проект
 
 Возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Прогнозная оценка выполнения целевых показателей в разрезе регионов
 
@@ -20,7 +20,7 @@ description: Мониторинг прогнозной оценки проект
 
 Возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Информация при заданных параметрах
 
@@ -28,4 +28,4 @@ description: Мониторинг прогнозной оценки проект
 
 Возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

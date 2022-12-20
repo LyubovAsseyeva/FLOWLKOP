@@ -18,7 +18,7 @@ description: Мониторинг завершения обучения и тр�
 
 Возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### Мониторинг трудоустройства в разрезе региона и категории
 
@@ -26,4 +26,4 @@ description: Мониторинг завершения обучения и тр�
 
 Доступна фильтрация по региону, возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

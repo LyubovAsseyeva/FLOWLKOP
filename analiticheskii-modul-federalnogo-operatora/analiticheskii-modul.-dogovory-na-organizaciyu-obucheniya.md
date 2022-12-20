@@ -12,7 +12,7 @@ description: Мониторинг договоров по проекту "Сод
 
 Доступна фильтрация по образовательному партнеру, возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Справочник «Распределение квот»
 
@@ -25,7 +25,7 @@ description: Мониторинг договоров по проекту "Сод
 
 Возможна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ### Отчет по расходованию квот договоров на организацию обучения
 
