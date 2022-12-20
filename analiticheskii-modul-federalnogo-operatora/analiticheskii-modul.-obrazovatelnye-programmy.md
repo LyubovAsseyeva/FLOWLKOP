@@ -52,4 +52,4 @@ description: Мониторинг программ, размещенных на 
 
 Доступна выгрузка таблицы в формате Excel.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
