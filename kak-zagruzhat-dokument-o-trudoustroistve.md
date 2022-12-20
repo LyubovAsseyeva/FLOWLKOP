@@ -22,7 +22,7 @@ description: >-
 
 В разделе "Документы об обучении и трудоустройстве" появится добавленный документ.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Важно: заявка перейдет в статус "Трудоустроен" только после получения информации с РвР, добавление документа, подтверждающего трудоустройства, статус заявки не изменит.\
