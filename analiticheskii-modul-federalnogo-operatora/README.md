@@ -1,3 +1,7 @@
+---
+description: Подробнее об аналитике
+---
+
 # Аналитический модуль федерального оператора
 
 {% content-ref url="analiticheskii-modul-obrazovatelnye-programmy.md" %}
