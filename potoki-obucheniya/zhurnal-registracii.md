@@ -10,6 +10,10 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+Загрузка журнала будет доступна только на следующий день после даты завершения обучения в потоке.
+{% endhint %}
+
 {% hint style="danger" %}
 Генерация Актов со стороны образовательного партнёра будет заблокирована, пока нет загруженного журнала.
 {% endhint %}
