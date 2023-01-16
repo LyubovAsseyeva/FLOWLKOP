@@ -22,11 +22,6 @@
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
-* [Аналитический модуль Федерального оператора](analiticheskii-modul-federalnogo-operatora/README.md)
-  * [Аналитический модуль. Образовательные программы](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-obrazovatelnye-programmy.md)
-  * [Аналитический модуль. Договоры на организацию обучения](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-dogovory-na-organizaciyu-obucheniya.md)
-  * [Аналитический модуль. Прогнозная оценка](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-prognoznaya-ocenka.md)
-  * [Аналитический модуль. Завершение обучения и трудоустройство](analiticheskii-modul-federalnogo-operatora/analiticheskii-modul.-zavershenie-obucheniya-i-trudoustroistvo.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
