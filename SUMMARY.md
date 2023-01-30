@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Добро пожаловать во Flow!](README.md)
+* [Памятка для сетевого образовательного партнера](README.md)
+* [Добро пожаловать во Flow!](<README (1).md>)
 * [Статусы заявок во Flow](statusy-zayavok-vo-flow.md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
@@ -22,7 +23,6 @@
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
-* [Памятка для сетевого образовательного партнера](pamyatka-dlya-setevogo-obrazovatelnogo-partnera.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
