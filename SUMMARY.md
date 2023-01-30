@@ -22,7 +22,7 @@
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
-* [Памятка для образовательного партнера](pamyatka-dlya-obrazovatelnogo-partnera.md)
+* [Памятка для сетевого образовательного партнера](pamyatka-dlya-setevogo-obrazovatelnogo-partnera.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
