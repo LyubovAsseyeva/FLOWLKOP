@@ -19,14 +19,18 @@ description: >-
 После регистрации представителя ему на электронную почту придёт ссылка на установку пароля. &#x20;
 
 {% hint style="info" %}
-Если необходимо зарегистрировать дополнительного представителя, обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md).
+Если необходимо зарегистрировать дополнительного представителя, обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md).
 {% endhint %}
 
 ## Вход
 
-Войти в систему можно из письма-приглашения, установив свой пароль, либо по ссылке [https://university.tgu-dpo.ru/](https://university.tgu-dpo.ru/).&#x20;
+Войти в систему можно из письма-приглашения, установив свой пароль, либо по ссылке [https://2023.flow.tgu-dpo.ru/](https://2023.flow.tgu-dpo.ru/).&#x20;
 
 {% hint style="info" %}
+[https://2022.flow.tgu-dpo.ru/Home/Index](https://2022.flow.tgu-dpo.ru/Home/Index) ссылка на личный кабинет по 2022 году.
+{% endhint %}
+
+{% hint style="success" %}
 Если вы точно зарегистрированы в системе, но не получили письмо-приглашение для входа, можете нажать "Забыли пароль", восстановить его и войти во Flow.
 {% endhint %}
 
