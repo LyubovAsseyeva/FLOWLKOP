@@ -19,7 +19,7 @@ description: >-
 После регистрации представителя ему на электронную почту придёт ссылка на установку пароля. &#x20;
 
 {% hint style="info" %}
-Если необходимо зарегистрировать дополнительного представителя, обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora..md).
+Если необходимо зарегистрировать дополнительного представителя, обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md).
 {% endhint %}
 
 ## Вход
