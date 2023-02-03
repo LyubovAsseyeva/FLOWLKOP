@@ -43,6 +43,16 @@
 * [Смена фамилии во время обучения](otvechaem-na-chasto-zadavaemye-voprosy/smena-familii-vo-vremya-obucheniya.md)
 * [Последний срок подачи заявления на отчисление](otvechaem-na-chasto-zadavaemye-voprosy/poslednii-srok-podachi-zayavleniya-na-otchislenie.md)
 
+## Федеральный оператор ТГУ
+
+* [Справочники](federalnyi-operator-tgu/spravochniki.md)
+
+## Сетевые партнёры
+
+## Сценарии использования&#x20;
+
+* [Примеры работы  с настраиваемым списком заявок](scenarii-ispolzovaniya/primery-raboty-s-nastraivaemym-spiskom-zayavok.md)
+
 ## Дополнительная информация
 
 * [🔐 Зашифрованный архив](dopolnitelnaya-informaciya/zashifrovannyi-arkhiv.md)
