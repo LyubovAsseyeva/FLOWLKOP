@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Памятка для сетевого образовательного партнера.](README.md)
-* [Добро пожаловать во Flow!](<README (1).md>)
+* [Добро пожаловать во Flow!.](dobro-pozhalovat-vo-flow-..md)
 * [Статусы заявок во Flow](statusy-zayavok-vo-flow.md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
