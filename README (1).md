@@ -24,7 +24,7 @@ description: >-
 
 {% hint style="danger" %}
 Для представителя образовательного партнера возможно получить разрешение на редактирование документов, загруженных во Flow.  Для этого необходимо направить ещё одно официальное письмо, где будет указано для какого сотрудника необходимо установить возможность для редактирования. \
-обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md).
+обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md).
 {% endhint %}
 
 ## Вход
