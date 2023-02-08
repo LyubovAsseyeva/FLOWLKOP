@@ -2,7 +2,7 @@
 
 * [Памятка для сетевого образовательного партнера.](README.md)
 * [Добро пожаловать во Flow!.](<README (1).md>)
-* [Статусы заявок во Flow](statusy-zayavok-vo-flow.md)
+* [Статусы заявок во Flow.](statusy-zayavok-vo-flow..md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
   * [Проверка ДЗС](proverka-dokumentov/proverka-dzs.md)
@@ -12,7 +12,7 @@
   * [Исчерпана квота на обучение](proverka-dokumentov/ischerpana-kvota-na-obuchenie.md)
 * [Приказы.](prikazy/README.md)
   * [Ручное добавление приказов.](prikazy./ruchnoe-dobavlenie-prikazov..md)
-  * [Автоматический выпуск приказов.](prikazy./avtomaticheskii-vypusk-prikazov..md)
+  * [Автоматический выпуск приказов.](prikazy/avtomaticheskii-vypusk-prikazov.md)
 * [Справки об успеваемости/посещаемости](spravki-ob-uspevaemosti-poseshaemosti/README.md)
   * [Как подписать справки электронной подписью](spravki-ob-uspevaemosti-poseshaemosti/kak-podpisat-spravki-elektronnoi-podpisyu.md)
 * [Выпуск документов о квалификации](vypusk-dokumentov-o-kvalifikacii.md)

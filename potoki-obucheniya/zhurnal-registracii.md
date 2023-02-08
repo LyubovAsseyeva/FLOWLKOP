@@ -8,7 +8,7 @@ description: >-
 
 На странице Потока во Flow **необходимо загружать журнал регистрации выданных документов о квалификации**.
 
-<figure><img src="../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Загрузка журнала будет доступна только на следующий день после даты завершения обучения в потоке.
