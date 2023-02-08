@@ -11,7 +11,7 @@
   * [Замена документов](proverka-dokumentov/zamena-dokumentov.md)
   * [Исчерпана квота на обучение](proverka-dokumentov/ischerpana-kvota-na-obuchenie.md)
 * [Приказы.](prikazy/README.md)
-  * [Ручное добавление приказов](prikazy/ruchnoe-dobavlenie-prikazov.md)
+  * [Ручное добавление приказов.](prikazy./ruchnoe-dobavlenie-prikazov..md)
   * [Автоматический выпуск приказов](prikazy/avtomaticheskii-vypusk-prikazov.md)
 * [Справки об успеваемости/посещаемости](spravki-ob-uspevaemosti-poseshaemosti/README.md)
   * [Как подписать справки электронной подписью](spravki-ob-uspevaemosti-poseshaemosti/kak-podpisat-spravki-elektronnoi-podpisyu.md)
