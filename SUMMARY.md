@@ -3,6 +3,7 @@
 * [Памятка для сетевого образовательного партнера.](README.md)
 * [Добро пожаловать во Flow!.](<README (1).md>)
 * [Статусы заявок во Flow.](statusy-zayavok-vo-flow..md)
+* [Программа обучения](programma-obucheniya.md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
   * [Проверка ДЗС](proverka-dokumentov/proverka-dzs.md)
