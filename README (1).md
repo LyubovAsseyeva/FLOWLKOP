@@ -69,7 +69,7 @@ description: >-
   * при неуспешном завершении обучения.
 * на продление обучения - добавление данного типа приказа на усмотрение образовательной организации. На функционал системы не влияет.  (Информация о приказе не передаётся на портал Работа России). [<mark style="background-color:red;">Подробнее</mark>](#user-content-fn-1)[^1]<mark style="background-color:red;"></mark>\ <mark style="background-color:red;"></mark>
 
-<mark style="background-color:red;"></mark>[Подробнее](prikazy/).
+[Подробнее о приказах.](prikazy/)
 
 ## Потоки обучения
 
@@ -79,6 +79,6 @@ description: >-
 * Акт -  количество граждан, кто успешно закончил обучение;
 * Отчёт - в отчёт попадают только те граждане, кто трудоустроен по данным Роструда.
 
-[Подробнее](dobro-pozhalovat-vo-flow-..md#potoki-obucheniya).
+[Подробнее](<README (1).md#potoki-obucheniya>).
 
 [^1]: 

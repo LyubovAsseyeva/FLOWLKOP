@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Памятка для сетевого образовательного партнера.](README.md)
-* [Добро пожаловать во Flow!.](dobro-pozhalovat-vo-flow-..md)
+* [Добро пожаловать во Flow!.](<README (1).md>)
 * [Статусы заявок во Flow](statusy-zayavok-vo-flow.md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
@@ -27,6 +27,7 @@
 ## ⁉ Отвечаем на часто задаваемые вопросы
 
 * [Регистрация представителя образовательного партнёра.](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md)
+* [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
 * [Двусторонний договор с Исполнителем-Работодателем](otvechaem-na-chasto-zadavaemye-voprosy/dvustoronnii-dogovor-s-ispolnitelem-rabotodatelem.md)
 * [Какие типы договоров доступны по категориям](otvechaem-na-chasto-zadavaemye-voprosy/kakie-tipy-dogovorov-dostupny-po-kategoriyam.md)
 * [Что делать, если у гражданина нет доступа к почте с Госуслуг?](otvechaem-na-chasto-zadavaemye-voprosy/chto-delat-esli-u-grazhdanina-net-dostupa-k-pochte-s-gosuslug.md)
