@@ -19,7 +19,6 @@
 * [Выпуск документов о квалификации.](vypusk-dokumentov-o-kvalifikacii..md)
 * [Как загружать документ о трудоустройстве.](kak-zagruzhat-dokument-o-trudoustroistve..md)
 * [Потоки  обучения](potoki-obucheniya/README.md)
-  * [Заявки на поток](potoki-obucheniya/zayavki-na-potok.md)
   * [Задание на поток](potoki-obucheniya/zadanie-na-potok.md)
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
@@ -44,12 +43,6 @@
 * [Как проверить запись на поток?](otvechaem-na-chasto-zadavaemye-voprosy/kak-proverit-zapis-na-potok.md)
 * [Смена фамилии во время обучения](otvechaem-na-chasto-zadavaemye-voprosy/smena-familii-vo-vremya-obucheniya.md)
 * [Последний срок подачи заявления на отчисление](otvechaem-na-chasto-zadavaemye-voprosy/poslednii-srok-podachi-zayavleniya-na-otchislenie.md)
-
-## Федеральный оператор ТГУ
-
-* [Справочники](federalnyi-operator-tgu/spravochniki.md)
-
-## Сетевые партнёры
 
 ## Сценарии использования&#x20;
 
