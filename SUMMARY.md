@@ -28,7 +28,8 @@
 
 * [Регистрация представителя образовательного партнёра.](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md)
 * [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
-* [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty-i-periody..md)
+* [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
+* [Документы об обучении и типы программ в Odin.](otvechaem-na-chasto-zadavaemye-voprosy/dokumenty-ob-obuchenii-i-tipy-programm-v-odin..md)
 * [Двусторонний договор с Исполнителем-Работодателем](otvechaem-na-chasto-zadavaemye-voprosy/dvustoronnii-dogovor-s-ispolnitelem-rabotodatelem.md)
 * [Какие типы договоров доступны по категориям](otvechaem-na-chasto-zadavaemye-voprosy/kakie-tipy-dogovorov-dostupny-po-kategoriyam.md)
 * [Что делать, если у гражданина нет доступа к почте с Госуслуг?](otvechaem-na-chasto-zadavaemye-voprosy/chto-delat-esli-u-grazhdanina-net-dostupa-k-pochte-s-gosuslug.md)
