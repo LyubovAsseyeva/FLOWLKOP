@@ -31,7 +31,7 @@
 * [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
 * [⌚ Блокировка отправки данных заявки на РР.](otvechaem-na-chasto-zadavaemye-voprosy/blokirovka-otpravki-dannykh-zayavki-na-rr..md)
 * [Документы об обучении и типы программ в Odin.](otvechaem-na-chasto-zadavaemye-voprosy/dokumenty-ob-obuchenii-i-tipy-programm-v-odin..md)
-* [Двусторонний договор с Исполнителем-Работодателем](otvechaem-na-chasto-zadavaemye-voprosy/dvustoronnii-dogovor-s-ispolnitelem-rabotodatelem.md)
+* [Двусторонний договор с Исполнителем-Работодателем.](otvechaem-na-chasto-zadavaemye-voprosy/dvustoronnii-dogovor-s-ispolnitelem-rabotodatelem..md)
 * [Какие типы договоров доступны по категориям](otvechaem-na-chasto-zadavaemye-voprosy/kakie-tipy-dogovorov-dostupny-po-kategoriyam.md)
 * [Что делать, если у гражданина нет доступа к почте с Госуслуг?](otvechaem-na-chasto-zadavaemye-voprosy/chto-delat-esli-u-grazhdanina-net-dostupa-k-pochte-s-gosuslug.md)
 * [Когда появится новая заявка?](otvechaem-na-chasto-zadavaemye-voprosy/kogda-poyavitsya-novaya-zayavka.md)
