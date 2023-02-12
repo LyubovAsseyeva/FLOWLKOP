@@ -51,6 +51,7 @@
 ## Сценарии использования&#x20;
 
 * [Примеры работы  с настраиваемым списком заявок](scenarii-ispolzovaniya/primery-raboty-s-nastraivaemym-spiskom-zayavok.md)
+* [Настраиваемый список программ](scenarii-ispolzovaniya/nastraivaemyi-spisok-programm.md)
 
 ## Дополнительная информация
 
