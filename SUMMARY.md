@@ -29,6 +29,7 @@
 * [Регистрация представителя образовательного партнёра.](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md)
 * [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
 * [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
+* [⌚ Блокировка отправки данных заявки на РР.](otvechaem-na-chasto-zadavaemye-voprosy/blokirovka-otpravki-dannykh-zayavki-na-rr..md)
 * [Документы об обучении и типы программ в Odin.](otvechaem-na-chasto-zadavaemye-voprosy/dokumenty-ob-obuchenii-i-tipy-programm-v-odin..md)
 * [Двусторонний договор с Исполнителем-Работодателем](otvechaem-na-chasto-zadavaemye-voprosy/dvustoronnii-dogovor-s-ispolnitelem-rabotodatelem.md)
 * [Какие типы договоров доступны по категориям](otvechaem-na-chasto-zadavaemye-voprosy/kakie-tipy-dogovorov-dostupny-po-kategoriyam.md)
