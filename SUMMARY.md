@@ -15,7 +15,7 @@
 * [Приказы.](prikazy/README.md)
   * [Ручное добавление приказов.](prikazy./ruchnoe-dobavlenie-prikazov..md)
   * [Автоматический выпуск приказов.](prikazy/avtomaticheskii-vypusk-prikazov.md)
-* [Импорт](import.md)
+* [Импорт.](import..md)
 * [Справки об успеваемости/посещаемости.](spravki-ob-uspevaemosti-poseshaemosti/README.md)
   * [Как подписать справки электронной подписью.](spravki-ob-uspevaemosti-poseshaemosti./kak-podpisat-spravki-elektronnoi-podpisyu..md)
 * [Выпуск документов о квалификации.](vypusk-dokumentov-o-kvalifikacii..md)
