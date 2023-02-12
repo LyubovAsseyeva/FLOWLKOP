@@ -2,8 +2,9 @@
 
 * [Добро пожаловать во Flow!.](README.md)
 * [Памятка для сетевого образовательного партнера.](<README (1).md>)
-* [Статусы заявок во Flow.](statusy-zayavok-vo-flow..md)
 * [Программа обучения.](programma-obucheniya..md)
+* [Договор на организацию обучения](dogovor-na-organizaciyu-obucheniya.md)
+* [Статусы заявок во Flow.](statusy-zayavok-vo-flow..md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
   * [Проверка ДЗС](proverka-dokumentov/proverka-dzs.md)
