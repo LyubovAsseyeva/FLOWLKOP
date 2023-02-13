@@ -16,13 +16,17 @@ description: >-
 
 Регистрация представителя образовательного партнёра будет проводиться в соответствии со списком образовательных партнёров, прошедших квалификационный отбор. &#x20;
 
+{% hint style="danger" %}
+Пока в вашем университете в Odin не будет добавлена хотя бы одна программа 2023 года, университет не появится во Flow и зарегистрировать вас не получится. [Как добавить программу.](https://informa.gitbook.io/odin/chasto-zadavaemye-voprosy/dobavit-programmu-v-ramkakh-proekta-demografiya)
+{% endhint %}
+
 После регистрации представителя ему на электронную почту придёт ссылка на установку пароля. Пароль - 10 символов (обязательно заглавная буква, цифра и спецфимвол).&#x20;
 
 {% hint style="info" %}
 Если необходимо зарегистрировать представителя, обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md).
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Для представителя образовательного партнера возможно получить разрешение на редактирование документов, загруженных во Flow.  Для этого необходимо направить ещё одно официальное письмо, где будет указано для какого сотрудника необходимо установить возможность для редактирования. \
 обращение можно подать через [единую форму](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357), используя следующую [инструкцию](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md).
 {% endhint %}
