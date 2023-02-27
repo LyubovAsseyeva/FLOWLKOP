@@ -30,6 +30,7 @@
 
 * [Регистрация представителя образовательного партнёра.](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md)
 * [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
+* [Использование электронной подписи](otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md)
 * [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
 * [⌚ Блокировка отправки данных заявки на РР.](otvechaem-na-chasto-zadavaemye-voprosy/blokirovka-otpravki-dannykh-zayavki-na-rr..md)
 * [Документы об обучении и типы программ в Odin.](otvechaem-na-chasto-zadavaemye-voprosy/dokumenty-ob-obuchenii-i-tipy-programm-v-odin..md)
