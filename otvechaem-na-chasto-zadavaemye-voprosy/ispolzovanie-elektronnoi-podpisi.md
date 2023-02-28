@@ -31,7 +31,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## Инструкция по установке&#x20;
+## Инструкции по установке&#x20;
 
 {% tabs %}
 {% tab title="Для Windows" %}
@@ -57,6 +57,10 @@ description: >-
 {% endtab %}
 
 {% tab title="Для Mac" %}
+В приложенной инструкции описан процесс установки для версии macOS Monterey 12.3.1 со всеми обновлениями.&#x20;
 
+{% hint style="info" %}
+Полные инструкции по установке размещены [на официальном сайте](https://support.cryptopro.ru/index.php?/Knowledgebase/Article/View/232/0/rbot-s-kriptopro-csp-v-macos) или [по ссылке](https://astral.ru/info/kriptopro/kriptopro-dlya-macos/).&#x20;
+{% endhint %}
 {% endtab %}
 {% endtabs %}
