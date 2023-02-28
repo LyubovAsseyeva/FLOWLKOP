@@ -30,9 +30,12 @@ description: >-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
-3. &#x20;Загрузите обратно в систему.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+2. &#x20;Загрузите обратно в систему.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Инструкции по установке&#x20;
 
