@@ -16,6 +16,8 @@ description: Договор  на организацию обучения ген
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. &#x20;скачивает подписанный договор
-2. &#x20;Подписывает открепленной подписью.
-3. Загружает договор и файл открепленной подписи во Flow.
+4. &#x20;Скачивает подписанный договор
+5. &#x20;Подписывает открепленной подписью.
+6. Загружает договор и файл открепленной подписи во Flow.
+
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Электронная подпись - что это?</strong></td><td align="center"></td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/">elektronnoe-podpisanie-dokumentov</a></td></tr><tr><td align="center"><strong>КриптоПро</strong> </td><td align="center">Установите для использования электронной подписи</td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptopro.md">kriptopro.md</a></td></tr><tr><td align="center"><strong>КриптоАРМ</strong></td><td align="center">Установите для электронного подписания документов</td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptoarm.md">kriptoarm.md</a></td></tr></tbody></table>
