@@ -27,7 +27,7 @@ description: >-
 
 1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
 
