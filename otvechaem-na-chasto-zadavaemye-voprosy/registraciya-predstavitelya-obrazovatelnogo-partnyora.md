@@ -9,7 +9,7 @@
 \
 Для регистрации сотрудника в кабинете Flow (обычно это документовед университета) необходимо подать заявку через[ единую форму.](https://forms.yandex.ru/cloud/60f044ccad8e79a13357810a/?answer\_choices\_9290506=13646025&14243936=21894357)&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Запрос должен быть оформлен на фирменном бланке с подписью и печатью. Отсканируйте документ и приложите к обращению.&#x20;
 

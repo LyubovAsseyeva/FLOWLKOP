@@ -50,7 +50,7 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## &#x20;Типы документов для подписания во Flow
+## Типы документов для подписания во Flow
 
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
 
@@ -61,23 +61,33 @@ description: >-
 * предложение о стоимости;
 * сетевой договор.
 
-### Этапы подписания документов
+## Этапы подписания документов
 
 1. Найти в системе документ, который необходимо подписать.
 2. Скачать документ.
-3. Подписать документ открепленной электронной подписью. Подробнее
+3. Подписать документ открепленной электронной подписью.&#x20;
+   1. Установить [КриптоПро](elektronnoe-podpisanie-dokumentov/kriptopro.md)
+   2. Установить [КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md)
+   3. Подписать в [КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md#podrobnee-o-podpisanii-dokumenta)
 4. Загрузить документ обратно во Flow.
 
-**Например, необходимо подписать договор на организацию обучения.**&#x20;
+<details>
+
+<summary><strong>Например, необходимо подписать договор на организацию обучения.</strong> </summary>
 
 1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (1) (5).png" alt="" data-size="original">
 
 2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
 
 3. Загрузите обратно в систему.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1).png>)
+
+</details>
+
+
+

@@ -18,7 +18,7 @@ description: >-
 3. выбрать тип документа "**Подтверждение трудоустройства**";
 4. загрузить файл и  нажать на кнопку "Сохранить".
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В разделе "Документы об обучении и трудоустройстве" появится добавленный документ.
 
