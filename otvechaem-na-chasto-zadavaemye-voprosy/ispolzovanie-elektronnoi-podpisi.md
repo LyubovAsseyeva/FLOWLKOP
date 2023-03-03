@@ -8,7 +8,7 @@ description: >-
 
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
 
-* [договор на организацию обучения](../dogovor-na-organizaciyu-obucheniya.md);
+* [договор на организацию обучения](../dogovor-na-organizaciyu-obucheniya..md);
 * [задание](../potoki-obucheniya/zadanie-na-potok.md);
 * [акт](../potoki-obucheniya/akty.md);
 * [справки](../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
@@ -31,7 +31,7 @@ description: >-
 
 2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
 
-<figure><img src="../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 2. &#x20;Загрузите обратно в систему.
 
