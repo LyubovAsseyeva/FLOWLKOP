@@ -8,10 +8,10 @@ description: >-
 
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
 
-* [договор на организацию обучения](../../dogovor-na-organizaciyu-obucheniya.md);
-* [задание](../../potoki-obucheniya/zadanie-na-potok.md);
-* [акт](../../potoki-obucheniya/akty.md);
-* [справки](../../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
+* [договор на организацию обучения](../dogovor-na-organizaciyu-obucheniya.md);
+* [задание](../potoki-obucheniya/zadanie-na-potok.md);
+* [акт](../potoki-obucheniya/akty.md);
+* [справки](../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
 * предложение о стоимости;
 * сетевой договор.
 
@@ -27,15 +27,15 @@ description: >-
 
 1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 2. &#x20;Загрузите обратно в систему.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Инструкции по установке&#x20;
 
