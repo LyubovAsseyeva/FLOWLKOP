@@ -85,7 +85,7 @@ description: >-
 
 3. Загрузите обратно в систему.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (11).png>)
 
 </details>
 
