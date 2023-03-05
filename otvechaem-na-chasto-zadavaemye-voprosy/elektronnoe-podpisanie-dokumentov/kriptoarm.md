@@ -32,7 +32,7 @@ description: >-
 **После завершения установки необходимо перезагрузить компьютер.**&#x20;
 {% endhint %}
 
-## Настройка КриптоАРМ
+## Настройка КриптоАРМ _(10 шагов и вы у цели!)_
 
 1. Открыть КриптоАРМ (Для КриптоАРМ на рабочем столе будет создан ярлык, необходимо кликнуть по нему).
 
@@ -43,7 +43,7 @@ description: >-
 
 2. &#x20; В пункте меню "Помощь" установить лицензию.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 3. Прописать лицензионные ключи и нажать "Ок".&#x20;
 4. Выбрать в меню КриптоАРМ "Профили" - "Управление профилями" -"Создать".
@@ -54,7 +54,7 @@ description: >-
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 6. В пункте "Подпись" установить формат подписи на "Усовершенствованная".&#x20;
 
@@ -66,7 +66,7 @@ description: >-
 
 7. В пункте "TSP" в поле "Адрес службы штампов времени" указать адрес службы штампов времени (например, [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf)).
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 8.  В пункте "OCSP" в поле "Адрес сервера" необходимо указать адрес OCSP сервера, указанный указан в свойствах сертификата пользователя.
 
@@ -74,58 +74,42 @@ description: >-
     2. Выбрать пункт "Доступ к информации о центрах сертификации"/Authority Information Access.
     3.  Скопировать URL.&#x20;
 
-        <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
     4. Вставить полученный URL&#x20;
 
 
 
-    <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 9. Выбрать в пункте "Профили" созданный профиль "По умолчанию".
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 10. Выполнить настройку в пункте "Режимы" (по желанию - необязательное условие).
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 **Настройка завершена. Поздравляем!**\
 
 
 ## Подробнее о подписании документа
 
-Откройте установленный КриптоАРМ (ярлык на рабочем столе)
+{% hint style="danger" %}
+Во время подписание на компьютере должен быть доступ к электронной подписи. То есть, если она на USB-накопители, то он должен быть вставлен в компьютер.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647256-y.jpg" alt=""><figcaption></figcaption></figure>
+1. Открыть установленный КриптоАРМ (ярлык на рабочем столе).
+2. Нажать "Подписать".
+3. Выбрать файл для подписи.
 
-Выберите сертификат
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647257-y.jpg" alt=""><figcaption></figcaption></figure>
+4. Ввести пин-код вашей Электронной подписи и нажмите "ОК".
 
-После выбора сертифика появится вот такая информация с вашими данными
-
-<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
-
-Перетащите документ, который необходимо подписать, в КриптоАРМ.
-
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647263-y.jpg" alt=""><figcaption></figcaption></figure>
-
-**Заполните адрес службы штампов времени этой ссылкой** [**http://tax4.tensor.ru/tsp/tsp.srf**](http://tax4.tensor.ru/tsp/tsp.srf)**, включите галочку "Документ просмотрен" и нажмите "Выполнить".**
-
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5192996240235808706-y.jpg" alt=""><figcaption></figcaption></figure>
-
-Введите пин-код вашей Электронной подписи и нажмите "ОК".
-
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647281-x.jpg" alt=""><figcaption></figcaption></figure>
-
-Ваш документ подписан&#x20;
-
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5199676993145259340-x.jpg" alt=""><figcaption></figcaption></figure>
 
 В каталоге на компьютере будет 2 файла:&#x20;
 
-* сам подписанный документ;
+* сам документ;
 * файл с открепленной подписью в формате sig.
 
 &#x20;Оба файла необходимо загрузить во Flow.
