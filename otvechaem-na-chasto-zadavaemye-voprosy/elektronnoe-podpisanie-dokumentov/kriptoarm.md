@@ -44,7 +44,7 @@ description: >-
 
 После выбора сертифика появится вот такая информация с вашими данными
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 Перетащите документ, который необходимо подписать, в КриптоАРМ.
 
@@ -60,7 +60,7 @@ description: >-
 
 Ваш документ подписан&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 
 

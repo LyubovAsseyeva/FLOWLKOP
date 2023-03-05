@@ -32,7 +32,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-Полная инструкция по установке размещена [по ссылке](https://disk.yandex.ru/i/IIwJAMz0Ndw5zA).&#x20;
+Инструкция по установке  КриптоПРО и КриптоАРМ также размещена [по ссылке](https://disk.yandex.ru/i/IIwJAMz0Ndw5zA).&#x20;
 {% endhint %}
 
 ## Этапы подписания документов
