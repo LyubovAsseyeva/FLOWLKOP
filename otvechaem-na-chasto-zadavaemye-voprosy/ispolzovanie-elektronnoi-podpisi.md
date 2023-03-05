@@ -20,8 +20,8 @@ description: >-
 
 * ОС Microsoft Windows не ниже 10/macOS Monterey 12.3.1
 * КриптоПро CSP версии 4.0 или выше. [Подробнее](elektronnoe-podpisanie-dokumentov/kriptopro.md)
+* Корневой сертификат Минкомсвязи России. Установите его по ссылке [\[ГОСТ 34.10-2012\] Корневой сертификат "Минкомсвязь России"](https://ca.gisca.ru/repository/AFF05C9E2464941E7EC2AB15C91539360B79AA9D.cer). [Подробнее](elektronnoe-podpisanie-dokumentov/podrobnee-ob-ustanovke-sertifikata-guc.md)
 * КриптоАРМ 5. [Подробнее](elektronnoe-podpisanie-dokumentov/kriptoarm.md)
-* Корневой сертификат Минкомсвязи России. Установите его по ссылке [\[ГОСТ 34.10-2012\] Корневой сертификат "Минкомсвязь России"](https://ca.gisca.ru/repository/AFF05C9E2464941E7EC2AB15C91539360B79AA9D.cer).
 
 {% hint style="success" %}
 Синхронизация времени по протоколу NTP - [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf) ссылку необходимо будет заполнить в КриптоАРМ. &#x20;

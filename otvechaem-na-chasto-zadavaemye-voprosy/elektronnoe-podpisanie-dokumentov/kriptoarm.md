@@ -1,7 +1,7 @@
 ---
 description: >-
-  После установки КриптоПро необходимо установить КриптоАРМ, именно в этом
-  модуле проходит подписание документов.
+  После установки КриптоПро и Сертификата ГУЦ необходимо установить КриптоАРМ,
+  именно в этом модуле проходит подписание документов.
 ---
 
 # КриптоАРМ
@@ -10,7 +10,7 @@ description: >-
 
 Перейдите на сайт [https://cryptoarm.ru/#download\_box](https://cryptoarm.ru/#download\_box)  и приобритите модуль КриптоАРМ
 
-### Установка
+## Установка
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647240-x.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ description: >-
 
 Ваш документ подписан&#x20;
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,4 +71,4 @@ description: >-
 
 &#x20;Оба файла необходимо загрузить во Flow.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>

@@ -32,6 +32,7 @@
 * [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
 * [Электронное подписание документов](otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md)
   * [КриптоПро](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptopro.md)
+  * [Подробнее об установке сертификата ГУЦ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/podrobnee-ob-ustanovke-sertifikata-guc.md)
   * [КриптоАРМ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptoarm.md)
 * [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
 * [⌚ Блокировка отправки данных заявки на РР.](otvechaem-na-chasto-zadavaemye-voprosy/blokirovka-otpravki-dannykh-zayavki-na-rr..md)
