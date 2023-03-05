@@ -1,7 +1,7 @@
 ---
 description: >-
   После установки КриптоПро необходимо установить КриптоАРМ, именно в этом
-  модуле проходит подписание документов
+  модуле проходит подписание документов.
 ---
 
 # КриптоАРМ
@@ -44,7 +44,7 @@ description: >-
 
 После выбора сертифика появится вот такая информация с вашими данными
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Перетащите документ, который необходимо подписать, в КриптоАРМ.
 
@@ -60,13 +60,15 @@ description: >-
 
 Ваш документ подписан&#x20;
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 В каталоге на компьютере будет 2 файла:&#x20;
 
-* сам подписанный документ
+* сам подписанный документ;
 * файл с открепленной подписью в формате sig.
 
 &#x20;Оба файла необходимо загрузить во Flow.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
