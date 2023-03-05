@@ -11,4 +11,4 @@ description: >-
 Например, гражданин уже учится, но скан его договора не чёткий. Чтобы не было вопросов при проверки данного документа, возможно заменить его скан.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>

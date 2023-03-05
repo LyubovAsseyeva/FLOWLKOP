@@ -20,7 +20,7 @@ description: Договор  на организацию обучения ген
 5. &#x20;Подписывает открепленной подписью. [Как это сделать?](dogovor-na-organizaciyu-obucheniya.md#podrobnee-o-podpisanii-dokumentov-elektronnoi-podpisyu)
 6. Загружает договор и файл открепленной подписи во Flow.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Статусы договора на организацию обучения
 

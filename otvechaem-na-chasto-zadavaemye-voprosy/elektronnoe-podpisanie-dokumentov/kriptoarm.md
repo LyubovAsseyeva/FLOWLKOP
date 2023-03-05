@@ -32,9 +32,9 @@ description: >-
 
 Открыть установленный КриптоАРМ (ярлык на рабочем столе)
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y.jpg" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y (1).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y.jpg" alt=""><figcaption></figcaption></figure>
 
 Заполните адрес службы штампов времени этой ссылкой [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf), включите галочку "Документ просмотрен" и нажмите "Выполнить".
 
