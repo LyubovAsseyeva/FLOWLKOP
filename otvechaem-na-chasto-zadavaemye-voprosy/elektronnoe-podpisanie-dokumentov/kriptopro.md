@@ -30,7 +30,7 @@
 [\[ГОСТ 34.10-2012\] Корневой сертификат "Минкомсвязь России"](https://ca.gisca.ru/repository/AFF05C9E2464941E7EC2AB15C91539360B79AA9D.cer) от 02.07.2021
 {% endhint %}
 
-{% content-ref url="podrobnee-ob-ustanovke-sertifikata-guc.md" %}
-[podrobnee-ob-ustanovke-sertifikata-guc.md](podrobnee-ob-ustanovke-sertifikata-guc.md)
+{% content-ref url="sertifikata-guc.md" %}
+[sertifikata-guc.md](sertifikata-guc.md)
 {% endcontent-ref %}
 
