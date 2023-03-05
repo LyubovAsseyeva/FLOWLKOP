@@ -10,8 +10,7 @@ description: >-
 
 Перейдите на сайт [https://cryptoarm.ru/#download\_box](https://cryptoarm.ru/#download\_box)  и приобритите модуль КриптоАРМ
 
-Приступите к установке\
-
+### Установка
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647240-x.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +22,9 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647244-x.jpg" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 Подтвердить при необходимости оповещение системы безопасности о внесении изменений в систему.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647246-x.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -31,9 +32,9 @@ description: >-
 
 Открыть установленный КриптоАРМ (ярлык на рабочем столе)
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y.jpg" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y.jpg)
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5188224046238647247-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Заполните адрес службы штампов времени этой ссылкой [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf), включите галочку "Документ просмотрен" и нажмите "Выполнить".
 
