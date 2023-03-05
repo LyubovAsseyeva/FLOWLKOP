@@ -28,11 +28,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-Перечень поддерживаемых носителей можно посмотреть на сайте  [официальном сайте производителя](https://www.cryptopro.ru/blog/2014/12/04/semnye-nositeli-i-bezopasnoe-khranenie-klyuchei) (обычно это USB-накопите - флешка).&#x20;
-{% endhint %}
-
-{% hint style="info" %}
-Инструкция по установке  КриптоПРО и КриптоАРМ также размещена [по ссылке](https://disk.yandex.ru/i/IIwJAMz0Ndw5zA).&#x20;
+Перечень поддерживаемых носителей можно посмотреть на сайте  [официальном сайте производителя](https://www.cryptopro.ru/blog/2014/12/04/semnye-nositeli-i-bezopasnoe-khranenie-klyuchei) (обычно это USB-накопитель - флешка).&#x20;
 {% endhint %}
 
 ## Этапы подписания документов
