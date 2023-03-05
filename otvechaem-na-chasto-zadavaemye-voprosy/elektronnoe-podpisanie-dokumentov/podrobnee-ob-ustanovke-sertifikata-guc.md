@@ -15,16 +15,16 @@ description: Головной удостоверяющий центр - ГУЦ
 
 1. Через контекстное меню файла сертификата ГУЦ выбрать пункт меню "Установить сертификат".
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 2.  Открыть файл.
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 3.  Выбрать "Текущий пользователь" или "Локальный компьютер" в зависимости от того, должен ли сертификат быть доступен всем пользователям данного компьютера. Нажать "Далее".
 
     .
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Примечание – Если отсутствует возможность выбора хранилища «Локальный компьютер» при наличии такой необходимости, следует обратиться к системному администратору ЛВС для в

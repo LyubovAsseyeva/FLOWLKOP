@@ -42,6 +42,24 @@ description: >-
 3. Подписать документ открепленной электронной подписью в [КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
 4. Загрузить документ и файл с открепленной подписью в формате SIG обратно во Flow.
 
+<details>
+
+<summary><strong>Например, необходимо подписать договор на организацию обучения.</strong> </summary>
+
+1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
+
+<img src="../.gitbook/assets/image (1) (5).png" alt="" data-size="original">
+
+2. Скачайте открывшийся документ, проверьте и подпишите его [электронной подписью в КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
+
+<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
+
+3. Загрузите обратно в систему.
+
+![](<../.gitbook/assets/image (4).png>)
+
+</details>
+
 ## Типы документов для подписания во Flow
 
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
@@ -52,26 +70,3 @@ description: >-
 * [справки](../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
 * предложение о стоимости;
 * сетевой договор.
-
-##
-
-<details>
-
-<summary><strong>Например, необходимо подписать договор на организацию обучения.</strong> </summary>
-
-1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
-
-<img src="../.gitbook/assets/image (1) (5).png" alt="" data-size="original">
-
-2. Скачайте открывшийся документ, проверьте и подпишите его электронной подписью.
-
-<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
-
-3. Загрузите обратно в систему.
-
-![](<../.gitbook/assets/image (4).png>)
-
-</details>
-
-
-
