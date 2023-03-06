@@ -2,9 +2,9 @@
 description: Головной удостоверяющий центр - ГУЦ
 ---
 
-# Подробнее об установке сертификата ГУЦ
+# Сертификат ГУЦ
 
-## Сетификат доступен по ссылке [https://ca.gisca.ru/support/repository/](https://ca.gisca.ru/support/repository/)&#x20;
+## Сертификат доступен по ссылке [https://ca.gisca.ru/support/repository/](https://ca.gisca.ru/support/repository/)&#x20;
 
 **\[ГОСТ 34.10-2012] Минкомсвязь России:**
 
