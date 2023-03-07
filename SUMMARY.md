@@ -48,7 +48,7 @@
 * [Когда появляется согласие на изменение сроков обучения?](otvechaem-na-chasto-zadavaemye-voprosy/kogda-poyavlyaetsya-soglasie-na-izmenenie-srokov-obucheniya.md)
 * [Удалить поток без слушателей возможно?](otvechaem-na-chasto-zadavaemye-voprosy/udalit-potok-bez-slushatelei-vozmozhno.md)
 * [Как изменить даты в созданном потоке?](otvechaem-na-chasto-zadavaemye-voprosy/kak-izmenit-daty-v-sozdannom-potoke.md)
-* [Почему мы не видим программу на РвР?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-my-ne-vidim-programmu-na-rvr.md)
+* [Почему мы не видим программу на РР?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-my-ne-vidim-programmu-na-rr.md)
 * [Как проверить запись на поток?](otvechaem-na-chasto-zadavaemye-voprosy/kak-proverit-zapis-na-potok.md)
 * [Смена фамилии во время обучения](otvechaem-na-chasto-zadavaemye-voprosy/smena-familii-vo-vremya-obucheniya.md)
 * [Последний срок подачи заявления на отчисление](otvechaem-na-chasto-zadavaemye-voprosy/poslednii-srok-podachi-zayavleniya-na-otchislenie.md)
