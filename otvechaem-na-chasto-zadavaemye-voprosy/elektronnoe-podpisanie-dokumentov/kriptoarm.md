@@ -54,7 +54,7 @@ description: >-
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 6. В пункте "Подпись" установить формат подписи на "Усовершенствованная".&#x20;
 
@@ -79,7 +79,7 @@ description: >-
 
 
 
-    <figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
 9. Выбрать в пункте "Профили" созданный профиль "По умолчанию".
 
 <figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
@@ -112,6 +112,10 @@ description: >-
 * сам документ;
 * файл с открепленной подписью в формате sig.
 
-&#x20;Оба файла необходимо загрузить во Flow.
+&#x20;Файла с открепленной подписью в формате SIG необходимо загрузить во Flow.
 
-<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Итоговый документ - бланк документа и два файла в формате SIG&
+{% endhint %}
