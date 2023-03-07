@@ -32,7 +32,3 @@ description: Договор  на организацию обучения ген
 {% hint style="info" %}
 Только после пометки, что договор зарегистрирован на Госзакупках ваши программы возможно будет опубликовать на портале Работа России.
 {% endhint %}
-
-### Подробнее о подписании документов электронной подписью
-
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Электронная подпись - что это?</strong></td><td align="center"></td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md">ispolzovanie-elektronnoi-podpisi.md</a></td></tr><tr><td align="center"><strong>КриптоПро</strong> </td><td align="center">Установите для использования электронной подписи</td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptopro.md">kriptopro.md</a></td></tr><tr><td align="center"><strong>КриптоАРМ</strong></td><td align="center">Установите для электронного подписания документов</td><td></td><td><a href="otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptoarm.md">kriptoarm.md</a></td></tr></tbody></table>
