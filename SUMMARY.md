@@ -35,6 +35,7 @@
   * [КриптоПро](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptopro.md)
   * [Сертификат ГУЦ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/sertifikat-guc.md)
   * [КриптоАРМ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptoarm.md)
+  * [КриптоЛайн аналог КриптоАРМ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kriptolain-analog-kriptoarm.md)
 * [Разные подписанты на разные документы и периоды.](otvechaem-na-chasto-zadavaemye-voprosy/raznye-podpisanty-na-raznye-dokumenty..md)
 * [⌚ Блокировка отправки данных заявки на РР.](otvechaem-na-chasto-zadavaemye-voprosy/blokirovka-otpravki-dannykh-zayavki-na-rr..md)
 * [Документы об обучении и типы программ в Odin.](otvechaem-na-chasto-zadavaemye-voprosy/dokumenty-ob-obuchenii-i-tipy-programm-v-odin..md)
