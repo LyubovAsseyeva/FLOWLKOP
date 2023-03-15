@@ -4,7 +4,7 @@
 * [Памятка для сетевого образовательного партнера.](<README (1).md>)
 * [Программа обучения.](programma-obucheniya..md)
 * [Договор на организацию обучения.](dogovor-na-organizaciyu-obucheniya.md)
-* [Предложение о стоимости](predlozhenie-o-stoimosti.md)
+* [Предложение о стоимости.](predlozhenie-o-stoimosti..md)
 * [Статусы заявок во Flow.](statusy-zayavok-vo-flow..md)
 * [Проверка документов](proverka-dokumentov/README.md)
   * [Редактирование данных гражданина](proverka-dokumentov/redaktirovanie-dannykh-grazhdanina.md)
