@@ -6,6 +6,8 @@ description: >-
 
 # КриптоЛайн аналог КриптоАРМ
 
+## Инструкция в работе, проводится анализ системы.
+
 ## Как загрузить?
 
 Ссылка на загрузку [КриптоЛайн](https://taxcom.ru/support/kriptolayn-el/).
@@ -25,5 +27,13 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5229218482581784708-x.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5229218482581784710-x.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5229218482581784714-x.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5229218482581784716-x.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Как настроить?
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5229218482581784721-w.jpg" alt=""><figcaption></figcaption></figure>
 
