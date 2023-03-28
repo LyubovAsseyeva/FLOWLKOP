@@ -19,7 +19,7 @@
 * [Импорт.](import..md)
 * [Справки об успеваемости/посещаемости.](spravki-ob-uspevaemosti-poseshaemosti/README.md)
   * [Как подписать справки электронной подписью.](spravki-ob-uspevaemosti-poseshaemosti./kak-podpisat-spravki-elektronnoi-podpisyu..md)
-  * [Как проверить прикрепленную подпись?](spravki-ob-uspevaemosti-poseshaemosti./kak-proverit-prikreplennuyu-podpis.md)
+  * [Как проверить прикрепленную подпись?](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov/kak-proverit-prikreplennuyu-podpis.md)
 * [Выпуск документов о квалификации.](vypusk-dokumentov-o-kvalifikacii..md)
 * [Как загружать документ о трудоустройстве.](kak-zagruzhat-dokument-o-trudoustroistve..md)
 * [Потоки  обучения](potoki-obucheniya/README.md)

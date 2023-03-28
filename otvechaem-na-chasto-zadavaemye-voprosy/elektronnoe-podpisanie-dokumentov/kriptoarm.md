@@ -114,7 +114,7 @@ description: >-
 
 &#x20;Файла с открепленной подписью в формате SIG необходимо загрузить во Flow.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Итоговый документ - бланк документа и два файла в формате SIG&

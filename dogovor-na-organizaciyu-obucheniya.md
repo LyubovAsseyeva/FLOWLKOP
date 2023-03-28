@@ -14,13 +14,13 @@ description: Договор  на организацию обучения ген
 2. Cкачивает бланк, подписывает и загружает подписанный файл открепленной подписи в формате SIG во Flow.&#x20;
 3. Образовательный партнёр переходит на страницу договора : Справочники - Договор на организацию обучения.
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. &#x20;Скачивает бланк договора.
 5. &#x20;Подписывает открепленной подписью. [Как это сделать?](dogovor-na-organizaciyu-obucheniya.md#podrobnee-o-podpisanii-dokumentov-elektronnoi-podpisyu)
 6. Загружает файл открепленной подписи во Flow.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Статусы договора на организацию обучения
 

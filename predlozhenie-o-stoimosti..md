@@ -35,13 +35,13 @@ description: Образовательный партнер генерирует 
 
 После заполнения карточки необходимо нажать кнопку “Сгенерировать”.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Подписание Предложения о стоимости&#x20;
 
 После генерации  необходимо скачать бланк сгенерированного предложения, подписать электронной подписью и загрузить открепленную подпись. [Подробнее о подписании документов. ](otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md)
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее Предложение о стоимости отправляется на проверку: одобрение/отклонение федеральному оператору.
 
@@ -62,4 +62,4 @@ description: Образовательный партнер генерирует 
 После согласования предложения о стоимости в заявках граждан появится пометка "Есть предложение". Без этой пометки гражданин с одобренной заявкой от ЦЗН не сможет приступить к обучению.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
