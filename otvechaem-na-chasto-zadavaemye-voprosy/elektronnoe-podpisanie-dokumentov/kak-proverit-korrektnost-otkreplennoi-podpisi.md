@@ -35,7 +35,7 @@
 В результате будет один из двух вариантов\
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 В первом варианте  всё хорошо, во втором следует переподписать документ. То есть, скачать бланк и ,  **ничего в нем не меняя (не перименовывать бланк, не пересохранять его его тем же названием)**, подписать ещё раз.
 {% endtab %}
