@@ -39,7 +39,7 @@ description: Образовательный партнер генерирует 
 
 ## Подписание Предложения о стоимости&#x20;
 
-После генерации  необходимо скачать бланк сгенерированного предложения, подписать электронной подписью и загрузить открепленную подпись. [Подробнее о подписании документов. ](otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md)
+После генерации  необходимо скачать бланк сгенерированного предложения, подписать электронной подписью и загрузить открепленную подпись. [Подробнее о подписании документов. ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov./)
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

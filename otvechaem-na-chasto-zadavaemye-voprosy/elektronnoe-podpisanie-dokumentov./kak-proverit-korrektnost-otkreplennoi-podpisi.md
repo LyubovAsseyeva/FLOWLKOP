@@ -1,4 +1,12 @@
+---
+description: >-
+  Проверка подписи доступна в в том сервисе, где вы проводили подписние
+  документа
+---
+
 # Как проверить корректность открепленной подписи
+
+
 
 Проверить подпись можно в любом сервисе, где вы подписывали документы.
 
@@ -41,6 +49,25 @@
 {% endtab %}
 
 {% tab title="КриптоАРМ" %}
+Откройте Крипто АРМ и выберите пункт "Проверить ЭП".&#x20;
 
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5314646086473859684-w.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Выберите sig файл подписанного документа и нажмите Finish.
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5314646086473859893-w.jpg" alt=""><figcaption></figcaption></figure>
+
+3. Дождитесь проверки.
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5314646086473859898-w.jpg" alt=""><figcaption></figcaption></figure>
+
+4. Проверьте детали подписи.
+
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-2-5314646086473859899-w.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+
+
+
+

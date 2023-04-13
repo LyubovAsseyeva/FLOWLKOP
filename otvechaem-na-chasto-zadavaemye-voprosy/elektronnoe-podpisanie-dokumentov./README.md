@@ -4,7 +4,7 @@ description: >-
   подлинности
 ---
 
-# Электронное подписание документов
+# Электронное подписание документов.
 
 **Электронную Подпись можно получить в удостоверяющем центре, который прошел аккредитацию, в своём городе. ЭП обычно выдаётся на  цифровом носителе.**
 
@@ -19,9 +19,9 @@ description: >-
 На компьютере должно быть установлено следующее ПО и выполнены настройки:
 
 * ОС Microsoft Windows не ниже 10/macOS Monterey 12.3.1
-* КриптоПро CSP версии 4.0 или выше. [Подробнее](elektronnoe-podpisanie-dokumentov/kriptopro.md)
-* Корневой сертификат Минкомсвязи России. Установите его по ссылке [\[ГОСТ 34.10-2012\] Корневой сертификат "Минкомсвязь России"](https://ca.gisca.ru/repository/AFF05C9E2464941E7EC2AB15C91539360B79AA9D.cer). [Подробнее](elektronnoe-podpisanie-dokumentov/sertifikat-guc.md)
-* КриптоАРМ 5. [Подробнее](elektronnoe-podpisanie-dokumentov/kriptoarm.md)
+* КриптоПро CSP версии 4.0 или выше. [Подробнее](kriptopro.md)
+* Корневой сертификат Минкомсвязи России. Установите его по ссылке [\[ГОСТ 34.10-2012\] Корневой сертификат "Минкомсвязь России"](https://ca.gisca.ru/repository/AFF05C9E2464941E7EC2AB15C91539360B79AA9D.cer). [Подробнее](sertifikat-guc.md)
+* КриптоАРМ 5. [Подробнее](kriptoarm.md)
 
 {% hint style="success" %}
 Синхронизация времени по протоколу NTP - [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf) ссылку необходимо будет заполнить в КриптоАРМ. &#x20;
@@ -35,7 +35,7 @@ description: >-
 
 1. Найти в системе Flow документ, который необходимо подписать.
 2. Скачать документ.
-3. Подписать документ открепленной электронной подписью в [КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
+3. Подписать документ открепленной электронной подписью в [КриптоАРМ](kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
 
 {% hint style="success" %}
 Допустимо использование других программ для создания открепленной усовершенствованной подписи, например, КриптоЛайн или КонтурКрипто.
@@ -49,15 +49,15 @@ description: >-
 
 1. В меню Справочники-Договоры на организацию обучения кликните по номеру Договора.&#x20;
 
-<img src="../.gitbook/assets/image (1) (5).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (5).png" alt="" data-size="original">
 
-2. Скачайте открывшийся документ, проверьте и подпишите его [электронной подписью в КриптоАРМ](elektronnoe-podpisanie-dokumentov/kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
+2. Скачайте открывшийся документ, проверьте и подпишите его [электронной подписью в КриптоАРМ](kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
 
-<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
 
 3. Загрузите обратно в систему.
 
-![](<../.gitbook/assets/image (4) (2) (1).png>)
+![](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 </details>
 
@@ -65,9 +65,9 @@ description: >-
 
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
 
-* [договор на организацию обучения](../dogovor-na-organizaciyu-obucheniya.md);
-* [задание](../potoki-obucheniya/zadanie-na-potok..md);
-* [акт](../potoki-obucheniya/akty.md);
-* [справки](../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
+* [договор на организацию обучения](../../dogovor-na-organizaciyu-obucheniya.md);
+* [задание](../../potoki-obucheniya/zadanie-na-potok..md);
+* [акт](../../potoki-obucheniya/akty.md);
+* [справки](../../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
 * предложение о стоимости;
 * сетевой договор.
