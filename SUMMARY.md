@@ -23,7 +23,7 @@
 * [Выпуск документов о квалификации.](vypusk-dokumentov-o-kvalifikacii..md)
 * [Как загружать документ о трудоустройстве.](kak-zagruzhat-dokument-o-trudoustroistve..md)
 * [Потоки  обучения](potoki-obucheniya/README.md)
-  * [Задание на поток](potoki-obucheniya/zadanie-na-potok.md)
+  * [Задание на поток.](potoki-obucheniya/zadanie-na-potok..md)
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
   * [Акты](potoki-obucheniya/akty.md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)

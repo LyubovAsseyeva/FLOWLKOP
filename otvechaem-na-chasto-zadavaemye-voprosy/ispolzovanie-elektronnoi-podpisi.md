@@ -66,7 +66,7 @@ description: >-
 Представитель образовательного партнера (при наличии роли с такой возможностью) электронной подписью может подписать следующие документы:&#x20;
 
 * [договор на организацию обучения](../dogovor-na-organizaciyu-obucheniya.md);
-* [задание](../potoki-obucheniya/zadanie-na-potok.md);
+* [задание](../potoki-obucheniya/zadanie-na-potok..md);
 * [акт](../potoki-obucheniya/akty.md);
 * [справки](../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
 * предложение о стоимости;
