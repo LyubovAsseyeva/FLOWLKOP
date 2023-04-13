@@ -48,7 +48,7 @@
 * [Выбор потока и подтверждение документов](otvechaem-na-chasto-zadavaemye-voprosy/vybor-potoka-i-podtverzhdenie-dokumentov.md)
 * [Почему граждане не видят поток на шаге 5?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-grazhdane-ne-vidyat-potok-na-shage-5.md)
 * [Что делать, если мы не хотим принимать граждан в конкретный поток в Odin?](otvechaem-na-chasto-zadavaemye-voprosy/chto-delat-esli-my-ne-khotim-prinimat-grazhdan-v-konkretnyi-potok-v-odin.md)
-* [Когда появляется согласие на изменение сроков обучения?](otvechaem-na-chasto-zadavaemye-voprosy/kogda-poyavlyaetsya-soglasie-na-izmenenie-srokov-obucheniya.md)
+* [Когда появляется согласие на изменение сроков обучения?.](otvechaem-na-chasto-zadavaemye-voprosy/kogda-poyavlyaetsya-soglasie-na-izmenenie-srokov-obucheniya-..md)
 * [Удалить поток без слушателей возможно?](otvechaem-na-chasto-zadavaemye-voprosy/udalit-potok-bez-slushatelei-vozmozhno.md)
 * [Как изменить даты в созданном потоке?](otvechaem-na-chasto-zadavaemye-voprosy/kak-izmenit-daty-v-sozdannom-potoke.md)
 * [Почему мы не видим программу на РР?](otvechaem-na-chasto-zadavaemye-voprosy/pochemu-my-ne-vidim-programmu-na-rr.md)
