@@ -17,13 +17,13 @@
 
 2. Начать использовать
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Далее следует выбрать пункт "Проверка подписи" и загрузить файл в формате pdf.
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4.  Далее выбрать файл с sig подписью этого документа&#x20;
 

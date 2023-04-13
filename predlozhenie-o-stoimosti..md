@@ -41,7 +41,7 @@ description: Образовательный партнер генерирует 
 
 После генерации  необходимо скачать бланк сгенерированного предложения, подписать электронной подписью и загрузить открепленную подпись. [Подробнее о подписании документов. ](otvechaem-na-chasto-zadavaemye-voprosy/ispolzovanie-elektronnoi-podpisi.md)
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее Предложение о стоимости отправляется на проверку: одобрение/отклонение федеральному оператору.
 

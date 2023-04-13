@@ -9,7 +9,7 @@ description: Примеры использования
 Используя настраиваемый список программ, можно определить опубликованные на РР программы, где нет доступных потоков для записи ([потоки](https://informa.gitbook.io/odin/struktura/programma/programma-dopolnitelnogo-obrazovaniya/dobavlenie-potoka-do) возможно добавить в Odin). \
 Для этого установите фильтр "Опубликована на РР" и отсортируйте по столбцу "Дата старта следующего потока" (сортировка доступна ко клику на заголовок столбца).
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Проверить программы, отклоненные Федеральным оператором
 
