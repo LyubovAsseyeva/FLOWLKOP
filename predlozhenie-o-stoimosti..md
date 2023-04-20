@@ -35,7 +35,7 @@ description: Образовательный партнер генерирует 
 
 После заполнения карточки необходимо нажать кнопку “Сгенерировать”.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Подписание Предложения о стоимости&#x20;
 
