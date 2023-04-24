@@ -63,6 +63,7 @@
 
 ## Дополнительная информация
 
+* [🧑🎓 Личный кабинет гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
 * [🔐 Зашифрованный архив](dopolnitelnaya-informaciya/zashifrovannyi-arkhiv.md)
 
 ***
