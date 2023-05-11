@@ -36,7 +36,7 @@ description: Генерация заданий доступна только п�
 Только после этого в ЛК образовательного партнёра появится Задание на поток.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Скачайте, подпишите и загрузите&#x20;
 
