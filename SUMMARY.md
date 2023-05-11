@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Добро пожаловать во Flow!.](README.md)
+* [Роли в системе Flow](roli-v-sisteme-flow.md)
 * [Памятка для сетевого образовательного партнера.](<README (1).md>)
 * [Программа обучения.](programma-obucheniya..md)
 * [Договор на организацию обучения.](dogovor-na-organizaciyu-obucheniya./README.md)
