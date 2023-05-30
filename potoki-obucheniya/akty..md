@@ -151,5 +151,5 @@ description: Генерация доступна на следующий ден�
 
 Для отображения информации по каждому из Актов, кликните на его иконку.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 

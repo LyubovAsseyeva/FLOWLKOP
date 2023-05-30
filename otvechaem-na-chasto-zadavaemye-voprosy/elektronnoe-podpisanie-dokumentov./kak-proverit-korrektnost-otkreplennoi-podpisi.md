@@ -35,10 +35,10 @@ description: >-
 
 4.  Далее выбрать файл с sig подписью этого документа&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 5. Нажать "Проверить подпись"
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 В результате будет один из двух вариантов\
 
