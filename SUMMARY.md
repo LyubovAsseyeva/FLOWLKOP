@@ -27,7 +27,7 @@
 * [Потоки  обучения](potoki-obucheniya/README.md)
   * [Задание на поток.](potoki-obucheniya/zadanie-na-potok..md)
   * [Журнал регистрации](potoki-obucheniya/zhurnal-registracii.md)
-  * [Акты](potoki-obucheniya/akty.md)
+  * [Акты.](potoki-obucheniya/akty..md)
   * [Отчёты](potoki-obucheniya/otchyoty.md)
 
 ## ⁉ Отвечаем на часто задаваемые вопросы

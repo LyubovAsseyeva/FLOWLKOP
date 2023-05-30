@@ -67,7 +67,7 @@ description: >-
 
 * [договор на организацию обучения](../../dogovor-na-organizaciyu-obucheniya./);
 * [задание](../../potoki-obucheniya/zadanie-na-potok..md);
-* [акт](../../potoki-obucheniya/akty.md);
+* [акт](../../potoki-obucheniya/akty..md);
 * [справки](../../spravki-ob-uspevaemosti-poseshaemosti/) (при автоматической генерации);
 * предложение о стоимости;
 * сетевой договор.
