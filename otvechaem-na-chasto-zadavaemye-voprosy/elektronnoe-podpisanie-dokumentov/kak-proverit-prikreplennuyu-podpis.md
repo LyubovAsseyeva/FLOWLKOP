@@ -14,7 +14,7 @@
 
 Подпись будет иметь один из следующих статусов:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если установлен КриптоПро PDF, то можно локально через Adobe Acrobat также  смотреть ЭП.

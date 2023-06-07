@@ -65,7 +65,7 @@
 
 На странице заявки появляется зеленая надпись, если есть одобренное предложение  о стоимости.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Подробнее о [Предложениях о стоимости](../predlozhenie-o-stoimosti..md).
 

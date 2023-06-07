@@ -30,4 +30,4 @@
 
 Для проверки на странице Работа с заявками - Заявки откройте Расширенный настройки и в поле Название потока укажите название вашего (рядом с названием будет решетка и набор цифр - идентификатор потока в Odin, сравните их  во Flow и Odin).&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (3).png" alt=""><figcaption></figcaption></figure>

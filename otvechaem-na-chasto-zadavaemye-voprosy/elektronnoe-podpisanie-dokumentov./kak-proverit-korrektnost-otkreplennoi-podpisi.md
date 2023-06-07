@@ -19,13 +19,13 @@ description: >-
 
 1. Регистрация.&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 
 
 2. Начать использовать
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 3. Далее следует выбрать пункт "Проверка подписи" и загрузить файл в формате pdf.
 
@@ -35,7 +35,7 @@ description: >-
 
 4.  Далее выбрать файл с sig подписью этого документа&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 5. Нажать "Проверить подпись"
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
