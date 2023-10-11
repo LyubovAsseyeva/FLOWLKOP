@@ -14,4 +14,4 @@
 В настраиваемом списке заявок  доступна выгрузка таблицы результатов в Excel. \
 В файл попадут те столбцы, которые были установлены в поле " Столбцы".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

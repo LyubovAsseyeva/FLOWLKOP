@@ -53,7 +53,7 @@ description: >-
 
 2. Скачайте открывшийся документ, проверьте и подпишите его [электронной подписью в КриптоАРМ](kriptoarm.md#podrobnee-o-podpisanii-dokumenta).
 
-<img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="original">
 
 3. Загрузите обратно в систему.
 
