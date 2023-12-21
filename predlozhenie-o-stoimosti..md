@@ -35,7 +35,7 @@ description: Образовательный партнер генерирует 
 
 После заполнения карточки необходимо нажать кнопку “Сгенерировать”.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Подписание Предложения о стоимости&#x20;
 
@@ -62,4 +62,4 @@ description: Образовательный партнер генерирует 
 После согласования предложения о стоимости в заявках граждан появится пометка "Есть предложение". Без этой пометки гражданин с одобренной заявкой от ЦЗН не сможет приступить к обучению.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

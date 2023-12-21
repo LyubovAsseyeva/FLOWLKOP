@@ -19,7 +19,7 @@ description: >-
 
 1. Регистрация.&#x20;
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 
 
@@ -38,7 +38,7 @@ description: >-
     <figure><img src="../../.gitbook/assets/image (6) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 5. Нажать "Проверить подпись"
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В результате будет один из двух вариантов\
 

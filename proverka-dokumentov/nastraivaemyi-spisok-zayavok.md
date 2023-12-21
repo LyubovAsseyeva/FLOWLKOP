@@ -7,7 +7,7 @@
 Расширенные настройки откроют увеличенный набор полей для фильтрации.\
 После выбора всех полей следует нажать кнопку "Применить настройки".&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Выгрузка заявок в Excel
 
