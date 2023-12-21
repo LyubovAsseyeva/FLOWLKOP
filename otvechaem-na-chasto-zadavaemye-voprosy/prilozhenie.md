@@ -10,7 +10,7 @@
 **IOS**
 
 1. Зайти в браузер Safari
-2. Открыть страницу Flow [https://flow.firpo.info/](https://flow.firpo.info/) в браузере.
+2. Открыть страницу Flow [https://2023.flow.tgu-dpo.ru](https://2023.flow.tgu-dpo.ru/Requests/TunableList) в браузере.
 3. Нажать на <img src="https://lh5.googleusercontent.com/-hL7UL4PFy3jAarjhrsbtiD-655-RXpZAVOWMTB17_Sq0iOg64Smrorc8ORGb8KSzuTg8FOGNV4nj8zHjGa5E5nhEtjoi4PNzJNVKzI8--od-mwqxCbcb6--j8pi3dmTjCrocVYZqqQ5TGbs5g" alt="" data-size="line">.&#x20;
 4. Выбрать пункт “На экран Домой”.
 
