@@ -34,7 +34,7 @@
 
 * [Регистрация представителя образовательного партнёра.](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora.md)
 * [Регистрация представителя образовательного партнёра (с возможностью для редактирования).](otvechaem-na-chasto-zadavaemye-voprosy/registraciya-predstavitelya-obrazovatelnogo-partnyora-s-vozmozhnostyu-dlya-redaktirovaniya-..md)
-* [Приложение](otvechaem-na-chasto-zadavaemye-voprosy/prilozhenie.md)
+* [📲 Приложение](otvechaem-na-chasto-zadavaemye-voprosy/prilozhenie.md)
 * [Электронное подписание документов.](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov./README.md)
   * [КриптоПро](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov./kriptopro.md)
   * [Сертификат ГУЦ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov./sertifikat-guc.md)
