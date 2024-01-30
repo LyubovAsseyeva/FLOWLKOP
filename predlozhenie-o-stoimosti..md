@@ -35,13 +35,13 @@ description: Образовательный партнер генерирует 
 
 После заполнения карточки необходимо нажать кнопку “Сгенерировать”.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Подписание Предложения о стоимости&#x20;
 
 После генерации  необходимо скачать бланк сгенерированного предложения, подписать электронной подписью и загрузить открепленную подпись. [Подробнее о подписании документов. ](otvechaem-na-chasto-zadavaemye-voprosy/elektronnoe-podpisanie-dokumentov./)
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее Предложение о стоимости отправляется на проверку: одобрение/отклонение федеральному оператору.
 
